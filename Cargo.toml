@@ -1,0 +1,11 @@
+[package]
+name = "dll_inject"
+version = "0.1.0"
+authors = ["suicider"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2.82"
+clap = "2.33.3"
